@@ -66,26 +66,26 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏━━ LUCKY MD V5 ━━┓
+┏━━ BONIPHACE MD ━━┓
 ┃   Mode: ${mode}
 ┃   User : ${s.OWNER_NAME}
 ┃
-┣━lucky md V5 new vision 𒈒━➠
-┗━━━𒈒by ғʀᴇᴅɪᴇ ᴛᴇᴄʜ 𒈒━━┛\n\n`;
+┣━boniphace md new vision 𒈒━➠
+┗━━━𒈒by Boniphace Tech𒈒━━┛\n\n`;
 
 
     
 
 let menuMsg = `
 ┏━━━━━━━━━━━━━━┓
-┣❏lucky md v5  
-┣❏by ғʀᴇᴅɪᴇ ᴛᴇᴄʜ
+┣❏boniphace md  
+┣❏by Boniphace Tech
 ┗━━━━━━━━━━━━━━┛\n
 
 
 
 
-lucky md v5 cmds𒈒
+boniphace md cmds𒈒
 `;
 
 
@@ -112,13 +112,13 @@ lucky md v5 cmds𒈒
 
 
 ︎┏━━━━━━━━━━━━━━┓
-️┣❏lucky md V5 bot 
-┣❏by fredi
+️┣❏boniphace md bot 
+┣❏by boniphace Tech 
 ┗━━━━━━━━━━━━━━┛\n
 
 
 ┏━━━━━━━━━━━━━━┓
-┃powered by fredi
+┃powered by boniphace Tech 
 ┗━━━━━━━━━━━━━━┛\n
 
 
@@ -134,7 +134,7 @@ lucky md v5 cmds𒈒
 
     try {
 
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *LUCKY_MD V5*, déveloper Fredie" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *BONIPHACE-MD*, déveloper Fredie" , gifPlayback : true }, { quoted: ms });
 
     }
 
