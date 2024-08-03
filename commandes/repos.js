@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/Fred1e/LUCKY_MD';
-  const img = 'https://telegra.ph/file/59ead3c2b58ca1b07734d.jpg';
+  const githubRepo = 'https://api.github.com/repos/boniphace478/BONIPHACE-MD';
+  const img = 'https://telegra.ph/file/f660abdbefbae32daeb81.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -22,18 +22,18 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *Luck_md V5.*\n get session id *by*, *pairing code*  https://lucky-md-app-05c41541e4d7.herokuapp.com/
+this is* *Boniphace_md.*\n get session id *by*, *pairing code*  https://lucky-md-app-05c41541e4d7.herokuapp.com/
 
 🗼 *REPOSITORY:* ${data.html_url}
 🌟 *STARS:* ${repoInfo.stars}
 🧧 *FORKS:* ${repoInfo.forks}
 📅 *RELEASE DATE:* ${releaseDate}
 🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-👨‍💻 *OWNER:* *Fredie tech*
-💞 *THEME:* *FREDI*
-🥰*Fredi Is Like All Guys🤞*
+👨‍💻 *OWNER:* *Boniphace tech*
+💞 *THEME:* *BONIPHACE*
+🥰*ONLY GOD CAN JUDGE ME!👑*
 __________________________________
-            *Made With Fredie Tech*`;
+            *Made With Boniphace Tech*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
