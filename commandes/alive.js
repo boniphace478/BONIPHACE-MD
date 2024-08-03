@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *LUCKY🍀-MD-V5-WABOT*`
+ *BONIPHACE🍀-MD-WABOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Hello👋 , *LUCKY_MD BOT* is alive just like you gee😜. ')
+repondre(' Hello👋 , I'm *BONIPHACE-MD* created by boniphace tech😜. ')
 
 }
     });
