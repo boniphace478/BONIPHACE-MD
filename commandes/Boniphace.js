@@ -14,7 +14,7 @@ const s = require(__dirname + "/../set");
 
 
 
-zokou({ nomCom: "fredi", categorie: "Menu" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "boniphace", categorie: "Menu" }, async (dest, zk, commandeOptions) => {
 
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
 
@@ -66,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏❏ ⌜  𝕃𝕌ℂ𝕂𝕐 𝕄𝔻 𝕍𝟝 ⌟ ❐
+┏❏ ⌜  BONIPHACE 𝕄𝔻 ⌟ ❐
 ┃ ⿻𝕄𝕠𝕕𝕖: ${mode}
 ┃ ⿻𝕌𝕤𝕖𝕣 : ${s.OWNER_NAME}
 ┃ ⿻𝕃𝕚𝕓𝕣𝕒𝕣𝕪 : Baileys
@@ -83,7 +83,7 @@ const date = moment().format('DD/MM/YYYY');
 
 let menuMsg = `
 ┏━━━━━━━━━┓
-┣💫Lucky cmds
+┣💫 Boniphace cmds
 ┗━━━━━━━━━┛\n
 
 
@@ -113,11 +113,11 @@ let menuMsg = `
 
 
 ︎┏━━━━━━━━━━━━━━┓
-️┣❏Lucky md V5 2024
+️┣❏Bonipjace md
 ┣❏Enjoy life  
 ┗┳━━━━━━━━━━━━┳┛
 ┏┻━━━━━━━━━━━━┻┓
-┃powered by Fredie Tech
+┃powered by Boniphace Tech
 ┗━━━━━━━━━━━━━━┛\n
 
 
