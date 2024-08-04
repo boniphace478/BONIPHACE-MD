@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Hello👋 , I'm *BONIPHACE-MD* created by boniphace tech😜. ')
+repondre(' Hello👋 , *BONIPHACE-MD 👑 BOT* is alive just like you gee😜. ')
 
 }
     });
