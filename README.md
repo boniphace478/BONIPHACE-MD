@@ -60,11 +60,11 @@ star✨ my repo if you like this bot🤖
  GET SESSION ID BY
  
 
-<a href="https://boniphace-pair2024-2bf19be71e24.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://boniphace-pair-king-af1226eb8aef.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
  
-<a href="https://boniphace-pair2024-2bf19be71e24.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://boniphace-pair-king-af1226eb8aef.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 ## 3.THIRD STEP 
