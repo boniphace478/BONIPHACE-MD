@@ -47,8 +47,7 @@
 
 ## 1.FIRST STEP 
 ## Fork Boniphace Md Repo
-while deploying boniface Md do not use PREFIX (.) and (,) to enable antilink feature.
-
+👇 👇 😎🤏
 <a href="https://github.com/boniphace478/BONIPHACE-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 star✨ my repo if you like this bot🤖
