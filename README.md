@@ -84,9 +84,13 @@ star✨ my repo if you like this bot🤖
 <br>
     <a href='https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
+### DEPLOY ON RENDER
+
+1. If you don't have an account in RENDER, create one and deploy.
+    <br>
+    <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a
+
 ##
-
-
 
 CONTACT DEVELOPER ON WHATSAPP 
 
