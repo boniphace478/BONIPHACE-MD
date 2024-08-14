@@ -81,8 +81,9 @@ star✨ my repo if you like this bot🤖
  <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 **2. If You Have Account On Heroku**👇 👇 👇
-    <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-MD' target="_black"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+<br>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ##
 
