@@ -65,13 +65,13 @@ star✨ my repo if you like this bot🤖
 
  <a href="https://chui-md.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
 
-### HEROKU SESSION 
+### HEROKU QR 
 
-<a href="https://boniphace-pair-2024-61fe1310ac3b.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://boniphace-pair-2024-61fe1310ac3b.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-### HEROKU QR
+### HEROKU SESSION
  
-<a href="https://boniphace-pair-2024-61fe1310ac3b.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://boniphace-pair-2024-61fe1310ac3b.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 ## 3.THIRD STEP 
