@@ -63,7 +63,7 @@ star✨ my repo if you like this bot🤖
 
 ### RENDER QR
 
- <a href="https://chui-md.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
+ <a href="https://boniphace-render.onrender.com/pair/qr"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>
 
 ### HEROKU QR 
 
