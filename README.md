@@ -1,7 +1,7 @@
 ## BONIPHACE MD
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Boniphace+md+Created+by+Boniphace.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://telegra.ph/file/afda72ccd3007fe6ef4c4.jpg">
- <img alt="BONIPHACE-MD" height="300" src="https://telegra.ph/file/afda72ccd3007fe6ef4c4.jpg">
+ <a href="https://telegra.ph/file/a426523c1f8b7ee7430f1.jpg">
+ <img alt="BONIPHACE-MD" height="300" src="https://telegra.ph/file/a426523c1f8b7ee7430f1.jpg">
   
 </h1> 
 <p align="center">l introduce <b>BONIPHACE-MD</b>, a powerful simple WhatsApp bot </p>
