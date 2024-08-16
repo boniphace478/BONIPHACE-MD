@@ -47,7 +47,7 @@ const date = moment().format('DD/MM/YYYY');
     ▸ *running on* : ${os.platform()}
     ▸ *theme* : *BONIPHACE*
 
-> LUCKY MD 2024\n${readmore}`;
+> BONIPHACE MD 2024\n${readmore}`;
     
 let menuMsg = `
 
