@@ -18,6 +18,14 @@
 
 ---
 
+
+</a>
+  <div align="center">
+  <img src="https://spogit.vercel.app/api?theme=dark&black=true&scan=true" alt="Widget with the current Spotify song"  />
+</div>
+
+---
+
 <p align="center">
   <a href="https://github.com/boniphace478/Boniphace-md"><b>Boniphace-md</b></a> Support Deploy On...
 </p>
