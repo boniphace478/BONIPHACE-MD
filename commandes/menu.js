@@ -78,8 +78,8 @@ const date = moment().format('DD/MM/YYYY');
 
 let menuMsg = `
 ┏━━━━━━━━━━━━━━┓
-┣❏boniphace md  
-┣❏by Boniphace Tech
+┣༆boniphace md  
+┣༆by Boniphace Tech
 ┗━━━━━━━━━━━━━━┛\n
 
 
