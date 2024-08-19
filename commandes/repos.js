@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *Boniphace_md.*\n get session id *by*, *pairing code*  https://boniphace-pair-2024-61fe1310ac3b.herokuapp.com/pair
+this is* *Boniphace_md.*\n get session id *by*, *pairing code*  https://boniphace70-69db40dd600d.herokuapp.com/pair
 
 🗼 *REPOSITORY:* ${data.html_url}
 🌟 *STARS:* ${repoInfo.stars}
