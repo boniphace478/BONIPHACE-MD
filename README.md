@@ -65,7 +65,16 @@ star✨ my repo if you like this bot🤖
 
 
  GET SESSION ID BY
- 
+
+### RENDER QR
+
+<a href="https://boniphace-session.onrender.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+### RENDER SESSION
+
+<a href="https://boniphace-session.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+
 ### HEROKU QR 
 
 <a href="https://boniphace70-69db40dd600d.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
