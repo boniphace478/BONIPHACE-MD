@@ -230,11 +230,20 @@ zokou({ nomCom: 'problem',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_for any problem you can find me for more help
-                 telegram👇👇
-              https://t.me/boniphaceTech
-                
-                Thank you for choosing BONIPHACE-MD_*`) 
+                 await repondre(`*┏━━━━━━━━━━━━━━
+┃BONIPHACE-MD 🎉🎉🎉 
+| NEVER 
+┃DIE🔥
+┗━━━━━━━━━━━━━━━
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❶ || Creator = 𖥘 BONIPHACE TECH 𖥘
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Please Follow My Support Channel
+Wanna talk to me?👉 https://t.me/boniphaceTech 👈
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+©*2024-2099 BONIPHACE TECH**`) 
 
    
 
