@@ -40,7 +40,7 @@ zokou({ nomCom: 'vcf',
 zokou({ nomCom: 'getall',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '♻️', 
+    reaction: '😎', 
     fromMe: 'true', 
 
 
