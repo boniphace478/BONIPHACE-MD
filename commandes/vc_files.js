@@ -150,7 +150,7 @@ zokou({ nomCom: 'group',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top a link to join lucky md group https://chat.whatsapp.com/KrseXOOYu2nKOkht0qonhY`) 
+                 await repondre(`top a link to join boniphace group  https://chat.whatsapp.com/KrseXOOYu2nKOkht0qonhY`) 
 
    
 
