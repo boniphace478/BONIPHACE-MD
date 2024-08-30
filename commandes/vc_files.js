@@ -218,3 +218,27 @@ zokou({ nomCom: 'me',
   }
 );
 
+
+zokou({ nomCom: 'problem',
+    desc: 'To check runtime',
+    Categorie: 'General',
+    reaction: '🤷', 
+    fromMe: 'true', 
+
+
+  },
+  async (dest, zk, commandeOptions) => {
+    const { ms, arg, repondre } = commandeOptions;
+
+                 await repondre(`*_for any problem you can find me for more help
+                 telegram👇👇
+              https://t.me/boniphaceTech
+                
+                Thank you for choosing BONIPHACE-MD_*`) 
+
+   
+
+
+  }
+);
+
