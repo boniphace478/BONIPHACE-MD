@@ -190,7 +190,8 @@ zokou({ nomCom: 'boniphace',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_𝒀𝑬𝑺𝑺 𝑴𝒀 𝑩𝑶𝑺𝑺 𝑰'𝑴 𝑳𝑰𝑺𝑻𝑬𝑵𝑰𝑵𝑮 𝑻𝑶 𝒀𝑶𝑼_*`) 
+                 await repondre(`*_𝕐𝔼𝕊𝕊........
+                 𝕄𝕐 𝔹𝕆𝕊𝕊 𝕀'𝕄 𝕃𝕀𝕊𝕋𝔼ℕ𝕀ℕ𝔾 𝕋𝕆 𝕐𝕆𝕌 𝕋𝕆 𝕐𝕆𝕌_*`) 
 
    
 
