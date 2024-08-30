@@ -198,3 +198,23 @@ zokou({ nomCom: 'boniphace',
   }
 );
 
+
+zokou({ nomCom: 'me',
+    desc: 'To check runtime',
+    Categorie: 'General',
+    reaction: '🤷', 
+    fromMe: 'true', 
+
+
+  },
+  async (dest, zk, commandeOptions) => {
+    const { ms, arg, repondre } = commandeOptions;
+
+                 await repondre(`*_255716661569,255767528416*`) 
+
+   
+
+
+  }
+);
+
