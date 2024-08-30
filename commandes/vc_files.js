@@ -139,7 +139,7 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'group',
+zokou({ nomCom: 'group1',
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '🤫', 
