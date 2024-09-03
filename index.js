@@ -426,7 +426,7 @@ function mybotpic() {
                                     };
                                     var txt = "link detected!!\n";
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
-                                    const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
+                                    const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover2.gif";
                                     var sticker = new Sticker(gifLink, {
                                         pack: 'Boniphace Md',
                                         author: conf.OWNER_NAME,
@@ -524,9 +524,9 @@ function mybotpic() {
             };
             var txt = "bot detected, \n";
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
-            const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
+            const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover2.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Beltah-Md',
+                pack: 'Boniphace-Md',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
