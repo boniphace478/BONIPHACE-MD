@@ -56,6 +56,10 @@
 ## 1.FIRST STEP 
 ## Fork Boniphace Md Repo
 👇 👇  👇 👇
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+100%+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
+ 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <a href="https://github.com/boniphace478/BONIPHACE-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 star✨ my repo if you like this bot🤖
