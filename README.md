@@ -73,6 +73,8 @@ star✨ my repo if you like this bot🤖
 
  GET SESSION ID BY
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=THIS+IS+SESSION+SITE🤗)](https://git.io/typing-svg)
+
 ### QR SITE
 
 <a href="https://boniphace-session.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
