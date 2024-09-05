@@ -88,6 +88,10 @@ star✨ my repo if you like this bot🤖
 
 ### 2. If You Have Account On Heroku**👇 👇 👇
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
+ 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
    <br>
     <a href='https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-MD' target="_darkblue"><img alt='DEPLOY TO HEROKU' src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkblue?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
