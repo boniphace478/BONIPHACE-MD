@@ -196,3 +196,40 @@ zokou({ nomCom: 'hack2',
 
   }
 )
+
+
+
+
+zokou({ nomCom: 'problem',
+    desc: 'To check runtime',
+    Categorie: 'General',
+    reaction: '🔎', 
+    fromMe: 'true', 
+
+
+  },
+  async (dest, zk, commandeOptions) => {
+    const { ms, arg, repondre } = commandeOptions;
+
+                 await repondre(`*_┏━━━━━━━━━━━━━━
+┃BONIPHACE-MD 🎉🎉🎉 
+| NEVER 
+┃DIE🔥
+┗━━━━━━━━━━━━━━━
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❶ || Creator = 𖥘 BONIPHACE TECH 𖥘
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Please Follow My Support Channel
+Wanna talk to me?👉 https://t.me/boniphaceTech 👈
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+©*2024-2099 BONIPHACE TECH_*`) 
+
+   
+
+
+  }
+);
+
+
