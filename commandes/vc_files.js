@@ -17,7 +17,7 @@ const runtime = function (seconds) {
  } 
 
 
-zokou({ nomCom: 'vcf5',
+zokou({ nomCom: 'vcf',
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '📄', 
@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f`) 
+                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G`) 
 
    
 
@@ -78,7 +78,7 @@ zokou({ nomCom: 'channel',
 );
 
 
-zokou({ nomCom: 'luckytgc',
+zokou({ nomCom: 'group1',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '🤭', 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'luckytgc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To Join LUCKY MD Telegram Chatroom* https://t.me/+u3zlb5y6OfxhOTdk`) 
+                 await repondre(`*Tap Here To Join BONIPHACE MD Chatroom* https://chat.whatsapp.com/KrseXOOYu2nKOkht0qonhY`) 
 
    
 
@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_lucky md is running on its latest vision_*`) 
+                 await repondre(`*_Boniphace md is running on its latest vision_*`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_lucky md v8&V9_*`) 
+                 await repondre(`*_Boniphace md_*`) 
 
    
 
@@ -139,7 +139,7 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'luckywagc',
+zokou({ nomCom: 'boniphace',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '♻️', 
@@ -150,7 +150,7 @@ zokou({ nomCom: 'luckywagc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap To Join Lucky Md WhatsApp Chartroom Group* https://chat.whatsapp.com/HdrwMccSFIaB5Zi7s9BzN9`) 
+                 await repondre(`*_YESS....I'M LISTENING TO YOU_*`) 
 
    
 
@@ -188,8 +188,8 @@ zokou({ nomCom: 'hack2',
     "SENDING LOG DOCUMENTS...",
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
-    "POWERED BY LUCKY MD",
-    "By FredieTech`) 
+    "POWERED BY BONIPHACE MD",
+    "By Boniphace Tech`) 
 
    
 
