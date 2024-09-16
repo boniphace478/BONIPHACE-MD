@@ -2,7 +2,7 @@
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+photographer+md+Created+by+photographer.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+BONIPHACE+MD+WHATSAPP+BOT)](https://git.io/typing-svg.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://telegra.ph/file/a426523c1f8b7ee7430f1.jpg">
  <img alt="BONIPHACE-MD" height="300" src="https://telegra.ph/file/a426523c1f8b7ee7430f1.jpg">
 
