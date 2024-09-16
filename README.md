@@ -54,6 +54,7 @@
 
 ## HOW TO DEPLOY BONIPHACE MD
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## 1.FIRST STEP 
 ## Fork Boniphace Md Repo
@@ -72,13 +73,20 @@ star✨ my repo if you like this bot🤖
 
  GET SESSION ID BY
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+𝕋ℍ𝕀𝕊+𝕀𝕊+𝕊𝔼𝕊𝕊𝕀𝕆ℕ+𝕊𝔼𝕋𝔼😎)](https://git.io/typing-svg)
 
+
 ### QR SITE
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 - <a href="https://anthony-boniphace.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ### SESSION SITE
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 - <a href="https://anthony-boniphace.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
@@ -89,6 +97,8 @@ star✨ my repo if you like this bot🤖
 ### 3.THIRD STEP 
 1. If You Don't Have An Account On Heroku**
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
    <br>
     <a 
 - <a align="center"><a href="https://signup.heroku.com">
@@ -98,7 +108,7 @@ star✨ my repo if you like this bot🤖
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
    <br>
     - <a href='https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-MD' target="_darkblue"><img alt='DEPLOY TO HEROKU' src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkblue?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
@@ -107,7 +117,10 @@ star✨ my repo if you like this bot🤖
 ### DEPLOY ON RENDER
 
 1. If you don't have an account in RENDER, create one and deploy.
-    <br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+   <br>
     <a href='https://dashboard.render.com/select-repo?type=web' target="_darkblue"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
 
