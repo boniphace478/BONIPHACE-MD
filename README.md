@@ -117,7 +117,7 @@ star✨ my repo if you like this bot🤖
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
    <br>
-    - <a href='https://dashboard.heroku.com/new?template=https://github.com/Galaxy680/BONIPHACE-MD-1' target="_darkblue"><img alt='DEPLOY TO HEROKU' src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkblue?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
+    - <a href='https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-MD-3' target="_darkblue"><img alt='DEPLOY TO HEROKU' src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkblue?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 
 ### DEPLOY ON RENDER
