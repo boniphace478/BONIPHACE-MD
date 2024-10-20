@@ -2,7 +2,7 @@
   "name":"BONIPHACE-MD UPDATE BY ME",
   "description":"Best WhatsApp Bot Developed By Boniphace Tech Contact me 255716661569, Thank you for choose BONIPHACE-MD",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/5462ea7070b61eb790caa.jpg",
+  "logo":"https://files.catbox.moe/b8dokx.jpeg",
   "repository":"https://github.com/boniphace478/BONIPHACE-MD",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/3dd4203db276e0fb61957.jpg",
+      "value":"https://files.catbox.moe/b8dokx.jpeg",
       "required":false
        
      },
