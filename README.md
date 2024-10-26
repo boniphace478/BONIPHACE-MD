@@ -119,7 +119,13 @@ star✨ my repo if you like this bot🤖
    <br>
     - <a href='https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-XMD-1/tree/main' target="_darkblue"><img alt='DEPLOY TO HEROKU' src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkblue?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
-**2. ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ**       
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
+ 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+
+**2. DEPLOY YESSER MD**       
 <br>
 <a href="https://dashboard.heroku.com/new?template=https://github.com/Yassin994/YESSER-MD/tree/main">
  <img src="https://img.shields.io/badge/𝔻𝔼ℙ𝕃𝕆𝕐%20𝕋𝕆%20ℍ𝔼ℝ𝕆𝕂𝕌-purple?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
