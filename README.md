@@ -63,8 +63,8 @@
 
 ## HOW TO DEPLOY BONIPHACE MD
 
-<img
-src="lofiboy.webp"/>
+</h1>
+<img  src="lofiboy.webp"/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
