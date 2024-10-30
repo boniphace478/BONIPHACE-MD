@@ -1,4 +1,7 @@
-***      BONIPHACE MD ***
+</a>
+</div>
+
+[![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davevad93&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
