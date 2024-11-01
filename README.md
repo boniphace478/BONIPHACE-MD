@@ -137,7 +137,7 @@ star✨ my repo if you like this bot🤖
 
 **OWNER**
 <p align="centre">
-  <a href="255716661569">
+  <a href="https://wa.me/message/HVPSEJDVDNAEG1">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
 
