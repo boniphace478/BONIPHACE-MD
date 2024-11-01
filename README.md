@@ -141,16 +141,10 @@ star✨ my repo if you like this bot🤖
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
 
-
-### DEPLOY ON RENDER
-
-1. If you don't have an account in RENDER, create one and deploy.
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-   <br>
-    <a href='https://dashboard.render.com/select-repo?type=web' target="_darkblue"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=render&logoColor=white'/></a>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
+<p align="centre">
+  <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
    ###
 
