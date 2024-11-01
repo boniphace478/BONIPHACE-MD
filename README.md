@@ -63,10 +63,6 @@
 
 ## HOW TO DEPLOY BONIPHACE MD
 
-**OWNER**
-<p align="centre">
-  <a href="255716661569">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -138,6 +134,13 @@ star✨ my repo if you like this bot🤖
 </div>
 
 [![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davevad93&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+**OWNER**
+<p align="centre">
+  <a href="255716661569">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+
+
 
 ### DEPLOY ON RENDER
 
