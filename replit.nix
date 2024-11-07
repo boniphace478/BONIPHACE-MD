@@ -15183,22 +15183,80 @@
 
 
 
-FROM node:lts-buster
 
-RUN apt-get update && \
-  apt-get install -y \
-  ffmpeg \
-  imagemagick \
-  webp && \
-  apt-get upgrade -y && \
-  rm -rf /var/lib/apt/lists/*
 
-COPY package.json .
 
-RUN npm install && npm install -g qrcode-terminal pm2
 
-COPY . .
 
-EXPOSE 3000
 
-CMD ["npm", "start"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{ pkgs }: {
+    deps = [
+        pkgs.sudo
+        pkgs.nodejs
+        pkgs.nodePackages.typescript
+        pkgs.ffmpeg
+        pkgs.imagemagick
+        pkgs.git
+        pkgs.neofetch
+        pkgs.libwebp
+        pkgs.speedtest-cli
+        pkgs.wget
+        pkgs.yarn
+        pkgs.pm2
+        pkgs.libuuid
+    ];
+    env = {
+        LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath [
+            pkgs.libuuid
+        ];
+    };
+}
