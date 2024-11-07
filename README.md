@@ -2,7 +2,9 @@
 </div>
 
 [![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davevad93&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-          `POWERED BY BONIPHACE TEAM`
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓅓+𝐵𝑂𝑁𝐼𝑃𝐻𝐴𝐶𝐸+𝐼𝑆+𝑀𝑌+𝑂𝑊𝑁𝐸𝑅)](https://git.io/typing-svg)
+
+</p>
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+𝗕𝗢𝗡𝗜𝗣𝗛𝗔𝗖𝗘+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐁𝐎𝐍𝐈𝐏𝐇𝐀𝐂𝐄+𝐓𝐄𝐀𝐌;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝗕𝗢𝗡𝗜𝗣𝗛𝗔𝗖𝗘.𝗧𝗘𝗖𝗛;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒𝗕𝗢𝗡𝗜𝗣𝗛𝗔𝗖𝗘࿐;💕𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥;😁𝐰𝐚+𝐛𝐨𝐭🌹.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
