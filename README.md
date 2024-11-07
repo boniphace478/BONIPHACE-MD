@@ -71,7 +71,7 @@
 ## 1.FIRST STEP 
 ## Fork Boniphace Md Repo
 👇 👇  👇 👇
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
  
 - <a href="https://github.com/boniphace478/BONIPHACE-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
@@ -87,7 +87,7 @@ star✨ my repo if you like this bot🤖
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+𝕋ℍ𝕀𝕊+𝕀𝕊+𝕊𝔼𝕊𝕊𝕀𝕆ℕ+𝕊𝔼𝕋𝔼😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+■+■+■+■+𝕋ℍ𝕀𝕊+𝕀𝕊+𝕊𝔼𝕊𝕊𝕀𝕆ℕ+𝕊𝔼𝕋𝔼😎)](https://git.io/typing-svg)
 
 
 ### QR SITE
@@ -116,7 +116,7 @@ star✨ my repo if you like this bot🤖
 
 ### 2. If You Have Account On Heroku**👇 👇 👇
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -126,7 +126,7 @@ star✨ my repo if you like this bot🤖
   - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-XMD-1"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
