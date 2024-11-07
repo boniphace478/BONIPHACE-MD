@@ -91,8 +91,6 @@ star✨ my repo if you like this bot🤖
 
 - <a href="https://anthony-boniphace.onrender.com/wasiqr"><img title="SERVER 01" src="https://img.shields.io/badge/𝑆𝐸𝑅𝑉𝐸𝑅 01-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-### SESSION SITE
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 - <a href="https://anthony-boniphace.onrender.com"><img title="SERVER 02" src="https://img.shields.io/badge/𝑆𝐸𝑅𝑉𝐸𝑅 02-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
@@ -112,8 +110,6 @@ star✨ my repo if you like this bot🤖
 </p>
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-*** DEPLOY BONIPHACE MD💥
 
 
   - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-XMD-1"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
