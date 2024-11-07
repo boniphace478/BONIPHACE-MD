@@ -70,41 +70,32 @@
 
 ## 1.FIRST STEP 
 ## Fork Boniphace Md Repo
-👇 👇  👇 👇
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝐶𝐿𝐼𝐶𝐾+𝑇𝑂+𝐹𝑂𝑅𝐾+𝑇𝐻𝐸+𝑅𝐸𝑃𝑂)](https://git.io/typing-svg)
+
+</p>
  
 - <a href="https://github.com/boniphace478/BONIPHACE-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 star✨ my repo if you like this bot🤖
-
 
 ## 2.SECOND STEP 
 
-
  GET SESSION ID BY
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝑇𝐻𝐼𝑆+𝐼𝑆+𝑆𝐸𝑆𝑆𝐼𝑂𝑁+𝑆𝐼𝑇𝐸+🤙)](https://git.io/typing-svg)
+
+</p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+■+■+■+■+𝕋ℍ𝕀𝕊+𝕀𝕊+𝕊𝔼𝕊𝕊𝕀𝕆ℕ+𝕊𝔼𝕋𝔼😎)](https://git.io/typing-svg)
-
-
-### QR SITE
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-- <a href="https://anthony-boniphace.onrender.com/wasiqr"><img title="SERVER 01" src="https://img.shields.io/badge/QR CODE-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://anthony-boniphace.onrender.com/wasiqr"><img title="SERVER 01" src="https://img.shields.io/badge/𝑆𝐸𝑅𝑉𝐸𝑅 01-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ### SESSION SITE
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-- <a href="https://anthony-boniphace.onrender.com"><img title="SERVER 02" src="https://img.shields.io/badge/PAIRING CODE-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-
-
-
+- <a href="https://anthony-boniphace.onrender.com"><img title="SERVER 02" src="https://img.shields.io/badg/𝑆𝐸𝑅𝑉𝐸𝑅 02-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ### 3.THIRD STEP 
 1. If You Don't Have An Account On Heroku**
@@ -114,9 +105,11 @@ star✨ my repo if you like this bot🤖
 - <a align="center"><a href="https://signup.heroku.com">
  <img src="https://img.shields.io/badge/Create%20Account%20Now-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-### 2. If You Have Account On Heroku**👇 👇 👇
+### 2.*If You Have Account On Heroku*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓆏+𝑆𝐴𝐹𝐸+𝑇𝑂+𝐻𝐸𝑅𝑂𝐾𝑈+𓆏)](https://git.io/typing-svg)
+
+</p>
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -124,9 +117,9 @@ star✨ my repo if you like this bot🤖
 
 
   - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-XMD-1"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓅓+𝑆𝐴𝐹𝐸+𝑇𝑂+𝐻𝐸𝑅𝑂𝐾𝑈+𓅓)](https://git.io/typing-svg)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
+</p>
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
