@@ -166,6 +166,8 @@ The WhatsApp Bot BONIPHACE-MD is released under the [MIT License](https://openso
 
 - [**BONIPHACE TECH**](https://github.com/boniphace478)
 - [**Developers YT**](https://youtube.com/@anthonyboniphace?si=86VHGM7BZ4Q_OQYO)
+- [**HANSTZ3 TECH**]
+(https://github.com/HANSTZ3) 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 ★THANKS BE TO GOG 🙏. ©
