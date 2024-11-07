@@ -95,7 +95,7 @@ star✨ my repo if you like this bot🤖
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-- <a href="https://anthony-boniphace.onrender.com"><img title="SERVER 02" src="https://img.shields.io/badg/𝑆𝐸𝑅𝑉𝐸𝑅 02-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://anthony-boniphace.onrender.com"><img title="SERVER 02" src="https://img.shields.io/badge/𝑆𝐸𝑅𝑉𝐸𝑅 02-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ### 3.THIRD STEP 
 1. If You Don't Have An Account On Heroku**
