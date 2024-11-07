@@ -114,7 +114,13 @@ star✨ my repo if you like this bot🤖
   - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-XMD-1"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓅓+𝑆𝐴𝐹𝐸+𝑇𝑂+𝐻𝐸𝑅𝑂𝐾𝑈+𓅓)](https://git.io/typing-svg)
 
-</p>
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+*** 𝐷𝐸𝑃𝐿𝑂𝑌 𝑇𝑂 𝑅𝐸𝑁𝐷𝐸𝑅
+ 
+- <a href="https://github.com/boniphace478/BONIFHACE-MD-120"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝐷𝐸𝑃𝐿𝑂𝑌 𝑇𝑂 𝑅𝐸𝑁𝐷𝐸𝑅-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
