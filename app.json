@@ -1,13 +1,13 @@
 
 {
   
-  "name": "HANS MD",
-  "description": "Best Whatsapp bot made by Hans Tz",
-  "logo":"https://i.imgur.com/lfqWcEv.jpeg",
+  "name": "BRUCELEE-MD",
+  "description": "Best Whatsapp bot made by milanoscarda254",
+  "logo":"https://files.catbox.moe/92jgih.jpg",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "",
+  "repository": "https://github.com/Milanoscarda2/Milano",
   "stack":"heroku-24",
   "env":{
       "SESSION_ID": {

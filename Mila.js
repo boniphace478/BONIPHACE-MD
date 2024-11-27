@@ -2,9 +2,9 @@
 Yoo bro what au looking for
 Just deploy the bot with original repo
 
-BONIFHACE-MD
+BRUCELEE-MD
 
-Made by dev BONIFHACE TECH
+Made by dev MILANOSCARDA TECH
 
 
                  _.u[[/;:,.         .odMMMMMM'
